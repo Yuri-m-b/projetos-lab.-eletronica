@@ -32,4 +32,16 @@ Para o circuito com capacitor de 1000uf a corrente nos diodos D2 e D3 é 735mA, 
 
 ![tabela](https://i.imgur.com/gaHg3M2.png)
 
-Parte 3
+**Parte 3**
+
+Para o circuito sem capacitor a corrente nos diodos é 60mA.
+![sem 1](https://i.imgur.com/WRcKc1t.png)
+![sem 2](https://i.imgur.com/joZ74ZJ.png)
+
+Para o circuito com capacitor de 220uF a corrente nos diodos é 622,04mA, para a D2 acorrente maxima é 1,4A.
+![220](https://i.imgur.com/sfxi5np.png)
+
+Para o circuito com capacitor de 1000uf a corrente no diodo D1 é 1,04A, e no o diodo D2 a corrente é 968mA e a corrente maxima é 6,322A.  
+![1000](https://i.imgur.com/HlsANWf.png)
+
+![tabela](https://i.imgur.com/gUEQ5Sf.png)
