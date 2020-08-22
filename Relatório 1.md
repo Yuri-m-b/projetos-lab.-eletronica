@@ -25,7 +25,7 @@ Utilizando os Ampop LM324N e Tl082 em um circuitor amplificador inversor, foram 
 
 
 
-# Parte 3*
+# Parte 3
 
 **Ampop LM324N** 
 ![parte3](https://cdn.discordapp.com/attachments/700405960866529319/700442827511038024/nao_inversora.png)
@@ -34,7 +34,7 @@ Utilizando os Ampop LM324N e Tl082 em um circuitor amplificador inversor, foram 
 ![parte3](https://cdn.discordapp.com/attachments/249608626518360064/700480705242595358/TL082_partec.png)
 
 
-# Parte 4*
+# Parte 4
 
 **Ampop LM324N**
 
