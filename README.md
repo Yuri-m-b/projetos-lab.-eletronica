@@ -2,4 +2,4 @@
 
 Projeto Electronica 2020/1
 
-Alunos: Yuri Marques Barboza e Augusto Ireno
+Alunos: Yuri Marques Barboza
