@@ -1,6 +1,6 @@
 # Relatório 1
 
-* Parte 1 - Circuito Seguidor de tensão
+# Parte 1 - Circuito Seguidor de tensão
 
 Após simular o circuito seguidor de tensão usando os ampop LM324N e TL082, foram dados essas formas de ondas:
 
@@ -12,7 +12,10 @@ Após simular o circuito seguidor de tensão usando os ampop LM324N e TL082, for
 
 Como o circuito é um seguidor de tensão, era de ser esperado que o ganho fosse 1.
 
-*Parte 2*
+
+# Parte 2 - Amplificador inversor
+
+Utilizando os Ampop LM324N e Tl082 em um circuitor amplificador inversor, foram gerados essas formas de ondas:
 
 **Ampop LM324N**
 ![parte2](https://cdn.discordapp.com/attachments/700405960866529319/700442867553927288/inversor.png)
@@ -20,7 +23,9 @@ Como o circuito é um seguidor de tensão, era de ser esperado que o ganho fosse
 **Ampop TL082**
 ![parte2](https://cdn.discordapp.com/attachments/249608626518360064/700480655879962734/TL082_parteb.png)
 
-*Parte 3*
+
+
+# Parte 3*
 
 **Ampop LM324N** 
 ![parte3](https://cdn.discordapp.com/attachments/700405960866529319/700442827511038024/nao_inversora.png)
@@ -28,7 +33,8 @@ Como o circuito é um seguidor de tensão, era de ser esperado que o ganho fosse
 **Ampop TL082**
 ![parte3](https://cdn.discordapp.com/attachments/249608626518360064/700480705242595358/TL082_partec.png)
 
-*Parte 4*
+
+# Parte 4*
 
 **Ampop LM324N**
 
