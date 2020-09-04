@@ -11,6 +11,14 @@ Ao simular o circuito e medir as tensões na entrada V(in) e na saída V(out), e
 
 ![parte](https://i.imgur.com/PYR5Fvt.jpg)
 
+Analisando a onda gerada, pode ser notado que para ambos entrada e saída a tensão de pico positiva e negativa serão a mesma.
+
+Tensão de pico positiva:
+![parte](https://i.imgur.com/8Kgd4bk.jpg)
+
+Tensão de pico negativa:
+![parte](https://i.imgur.com/ca4FYjS.jpg)
+
 **Ampop TL082**
 ![parte](https://cdn.discordapp.com/attachments/249608626518360064/700480595494699098/Tl082_partea.png)
 
