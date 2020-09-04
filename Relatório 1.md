@@ -7,6 +7,10 @@ Após simular o circuito seguidor de tensão usando os ampop LM324N e TL082, for
 **Ampop LM324N**
 ![parte](https://i.imgur.com/7TfuZcd.png)
 
+Ao simular o circuito e medir as tensões na entrada V(in) e na saída V(out), essa foi a onda gerada:
+
+![parte](https://i.imgur.com/PYR5Fvt.jpg)
+
 **Ampop TL082**
 ![parte](https://cdn.discordapp.com/attachments/249608626518360064/700480595494699098/Tl082_partea.png)
 
