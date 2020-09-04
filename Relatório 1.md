@@ -5,7 +5,7 @@
 Após simular o circuito seguidor de tensão usando os ampop LM324N e TL082, foram dados essas formas de ondas:
 
 **Ampop LM324N**
-![parte](https://imgur.com/7TfuZcd)
+![parte](https://i.imgur.com/7TfuZcd.png)
 
 **Ampop TL082**
 ![parte](https://cdn.discordapp.com/attachments/249608626518360064/700480595494699098/Tl082_partea.png)
