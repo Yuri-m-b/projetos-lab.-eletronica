@@ -38,7 +38,7 @@ Tensão de pico negativa:
 
 
 
-Como o circuito é um seguidor de tensão, era de ser esperado que o ganho fosse 1.
+Comparando as ondas para Vin e Vout pode ser concluído que Vin = Vout, o valor ideal calculado para cada saída é 500mV ao comparar esse resultado com os valores simulados para o ampop LM324N e TL082 pode ser considerar que a divergência foi desprezível.
 
 
 # Parte 2 - Amplificador inversor
