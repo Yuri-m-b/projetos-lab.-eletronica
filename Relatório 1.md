@@ -2,9 +2,7 @@
 
 # Parte 1 - Circuito Seguidor de tensão
 
-Após simular o circuito seguidor de tensão usando os ampop LM324N e TL082, foram dados essas formas de ondas:
-
-**Ampop LM324N**
+**Circuito Ampop LM324N**
 ![parte](https://i.imgur.com/7TfuZcd.png)
 
 Ao simular o circuito e medir as tensões na entrada V(in) e na saída V(out), essa foi a onda gerada:
@@ -21,8 +19,24 @@ Tensão de pico negativa:
 
 ![parte](https://i.imgur.com/ca4FYjS.jpg)
 
-**Ampop TL082**
-![parte](https://cdn.discordapp.com/attachments/249608626518360064/700480595494699098/Tl082_partea.png)
+**Circuito Ampop TL082**
+![parte](https://i.imgur.com/uSris5D.jpg)
+
+Ao simular o circuito e medir as tensões na entrada V(in) e na saída V(out), essa foi a onda gerada:
+
+![parte](https://i.imgur.com/yNUh3hg.jpg)
+
+Analisando a onda gerada, pode ser notado que para ambos entrada e saída a tensão de pico positiva e negativa serão a mesma.
+
+Tensão de pico positiva:
+
+![parte](https://i.imgur.com/HKZPdRj.jpg)
+
+Tensão de pico negativa:
+
+![parte](https://i.imgur.com/fbOJFzw.jpg)
+
+
 
 Como o circuito é um seguidor de tensão, era de ser esperado que o ganho fosse 1.
 
