@@ -54,7 +54,15 @@ Simulando o circuito com:
 
 ![parte2](https://i.imgur.com/POEqPhO.jpg)
 ![parte2](https://i.imgur.com/CIOG0fM.jpg)
+Analisando a tensão de saída, pode ser notado que ela tem uma amplitude de 5V e como seu ciclo positivo é gerado em conjunto com seu ciclo negativo, seu ganho é de -10V.
 
+Para chegar até os valores de saturação do sinal, foram testadas diferentes tensões de entrada para o circuito.
+
+*Sinal positivo*
+Foi dado quando o sinal de entrada determinado foi de 1.08V
+
+![parte2](https://i.imgur.com/Ds83u3J.jpg)
+![parte2](https://i.imgur.com/7wtg64C.jpg)
 
 **Ampop TL082**
 ![parte2]
