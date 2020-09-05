@@ -46,11 +46,12 @@ Comparando as ondas para Vin e Vout pode ser concluído que Vin = Vout, o valor 
 Calculando o circuito ideal para um Amplificador Inversor:
 ![parte2](https://i.imgur.com/oSypGPt.jpg)
 
-Resultado: Ganho de -10V.
+*Resultado ganho de -10V.
 
 Simulando o circuito com:
 
 **Ampop LM324N**
+
 ![parte2](https://i.imgur.com/POEqPhO.jpg)
 ![parte2](https://i.imgur.com/CIOG0fM.jpg)
 
