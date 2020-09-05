@@ -43,13 +43,20 @@ Comparando as ondas para Vin e Vout pode ser concluído que Vin = Vout, o valor 
 
 # Parte 2 - Amplificador inversor
 
-Utilizando os Ampop LM324N e Tl082 em um circuitor amplificador inversor, foram gerados essas formas de ondas:
+Calculando o circuito ideal para um Amplificador Inversor:
+![parte2](https://i.imgur.com/oSypGPt.jpg)
+
+Resultado: Ganho de -10V.
+
+Simulando o circuito com:
 
 **Ampop LM324N**
-![parte2](https://cdn.discordapp.com/attachments/700405960866529319/700442867553927288/inversor.png)
+![parte2](https://i.imgur.com/POEqPhO.jpg)
+![parte2](https://i.imgur.com/CIOG0fM.jpg)
+
 
 **Ampop TL082**
-![parte2](https://cdn.discordapp.com/attachments/249608626518360064/700480655879962734/TL082_parteb.png)
+![parte2]
 
 
 
