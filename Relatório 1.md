@@ -58,15 +58,31 @@ Analisando a tensão de saída, pode ser notado que ela tem uma amplitude de 5V 
 
 Para chegar até os valores de saturação do sinal, foram testadas diferentes tensões de entrada para o circuito.
 
-*Sinal positivo*
-Foi dado quando o sinal de entrada determinado foi de 1.08V
+*Sinal positivo
+
+Dado quando a tensão de entrada determinada foi de 1.08V.
 
 ![parte2](https://i.imgur.com/Ds83u3J.jpg)
 ![parte2](https://i.imgur.com/7wtg64C.jpg)
+O valor de tensão no ponto positivo da saturação foi de 10.76V, consequentemente tendo o valor de queda 1.24V
+
+*Sinal negativo
+
+Dado quando a tensão de entrada determinada foi de 1.14V.
+
+![parte2](https://i.imgur.com/kvlz8WQ.jpg)
+![parte2](https://i.imgur.com/oIyA3gx.jpg)
+O valor da tensão no ponto positivo da saturação continuou sendo o mesmo, porém o valor da tensão no ponto negativo ficou -11.31V, sendo o valor de queda -0.69V.
 
 **Ampop TL082**
-![parte2]
+![parte2](https://i.imgur.com/jNWPWfy.jpg)
 
+Para analisar a saturação com o Ampop TL082, a tensão de entrada foi ajustada para 1.05V, gerando a onda de saturação onde a tensão positiva e negativa ficaram iguais em 10.37V, tendo o valor de queda 1.63V e -1.63V respectivamente.
+
+*Conclusão
+
+Analisando as simulações pode ser concluir que o Ampop inversor amplifica e inverte o sinal, no caso do circuito pedido o sinal de saída foi ampliado dez vezes mais que o sinal de entrada.
+Comparando os resultados ao simular o circuito com ambos Ampop LM324N e TL082, ficou constatado que com o Ampop LM324N a tensão de saturação positiva 10.76V e saturação negativa -11.31V não foram as mesmas, enquanto que com o Ampop TL082 ambas tensão de saturação foram identicas 10.37V.
 
 
 # Parte 3 - Amplificador não-inversor
