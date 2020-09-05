@@ -3,7 +3,7 @@
 # Parte 1 - Circuito Seguidor de tensão
 
 Calculando o circuito ideal para um seguidor de tensão:
-[parte1](https://i.imgur.com/ztKlYti.jpg)
+![parte1](https://i.imgur.com/ztKlYti.jpg)
 
 *Resultando um ganho de 1V.
 
