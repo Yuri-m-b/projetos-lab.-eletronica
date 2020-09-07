@@ -191,4 +191,5 @@ Colocando mais um resistor de 620Ω em seríe com a tensão de entrada 0V, a ten
 
 *Conclusão:
 
-Comparando ambos ampop LM324N e TL082 para a tensão de entrada de 12V, pode ser notado que a tensão de saída é maior quando o circuito está usando o ampop LM324N, 130.014mV, comparado com a tensão de saída quando o circuito está usando o ampop TL082, 95.14mV.
+Comparando ambos ampop LM324N e TL082 para a tensão de entrada de 12V, pode ser notado que a tensão de saída é maior quando o circuito está usando o ampop LM324N, 130.014mV, comparado com a tensão de saída quando o circuito está usando o ampop TL082, 95.14mV. A maior diferença é notada ao mudar a tensão de entrada do circuito para 0V, nesse caso é evidente que usando o ampop LM324N a tensão de saída do circuito será menor sendo ela 31.43mV, porém ao comparar com o circuito usando o ampop TL082 a tensão de saída se torna basicamente nula, sendo ela 120.67uV.
+
