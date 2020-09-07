@@ -144,7 +144,7 @@ Comparando os resultados ao simular o circuito com ambos Ampop LM324N e TL082, f
 
 Calculando o circuito ideal para um Amplificador Subtrator:
 
-![parte4](https://i.imgur.com/SEC59cY.jpg)
+![parte4](https://i.imgur.com/C6Q9kqe.jpg)
 
 *O valor dado para R1 será 51kΩ.
 
@@ -162,9 +162,9 @@ Usando 0V para a tensão de entrada com o ampop LM324N a tensão de saída será
 
 ![parte4](https://i.imgur.com/SC55S2d.jpg)
 
-Colocando mais um resistor de 620Ω em seríe com a tensão de entrada 5V, a tensão de saída com o ampop LM324N será 58.81mV:
+Colocando mais um resistor de 620Ω em seríe com a tensão de entrada 12V, a tensão de saída com o ampop LM324N será 97.14mV:
 
-![parter4](https://i.imgur.com/b1tQIE9.jpg)
+![parter4](https://i.imgur.com/sIpYTed.jpg)
 
 Colocando mais um resistor de 620Ω em seríe com a tensão de entrada 0V, a tensão de saída com o ampop LM324N será 31.43mV:
 
@@ -181,12 +181,14 @@ Usando 0V para a tensão de entrada com o ampop TL082 a tensão de saída será 
 
 ![parte4](https://i.imgur.com/67VwAe6.jpg)
 
-Colocando mais um resistor de 620Ω em seríe com a tensão de entrada 5V, a tensão de saída com o ampop TL082 será 26.51mV:
+Colocando mais um resistor de 620Ω em seríe com a tensão de entrada 12V, a tensão de saída com o ampop TL082 será 63.46mV:
 
-![parte4](https://i.imgur.com/uDmMY1J.jpg)
+![parte4](https://i.imgur.com/VWPA8cX.jpg)
 
 Colocando mais um resistor de 620Ω em seríe com a tensão de entrada 0V, a tensão de saída com o ampop TL082 será 120.67uV:
 
 ![parte4](https://i.imgur.com/hAGJkqc.jpg)
 
 *Conclusão:
+
+Comparando ambos ampop LM324N e TL082 para a tensão de entrada de 12V, pode ser notado que a tensão de saída é maior quando o circuito está usando o ampop LM324N, 130.014mV, comparado com a tensão de saída quando o circuito está usando o ampop TL082, 95.14mV.
