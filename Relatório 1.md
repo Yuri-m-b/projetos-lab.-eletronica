@@ -43,7 +43,7 @@ Tensão de pico negativa:
 
 ![parte](https://i.imgur.com/fbOJFzw.jpg)
 
-
+*Conclusão:
 
 Comparando as ondas para Vin e Vout pode ser concluído que Vin = Vout, o valor ideal calculado para cada saída é 500mV ao comparar esse resultado com os valores simulados para o ampop LM324N e TL082 pode ser considerar que a divergência foi desprezível.
 
@@ -86,7 +86,7 @@ O valor da tensão no ponto positivo da saturação continuou sendo o mesmo, por
 
 Para analisar a saturação com o Ampop TL082, a tensão de entrada foi ajustada para 1.05V, gerando a onda de saturação onde a tensão positiva e negativa ficaram iguais em 10.37V, tendo o valor de queda 1.63V e -1.63V respectivamente.
 
-*Conclusão
+*Conclusão:
 
 Analisando as simulações pode ser concluir que o Ampop inversor amplifica e inverte o sinal, no caso do circuito pedido o sinal de saída foi ampliado dez vezes mais que o sinal de entrada.
 Comparando os resultados ao simular o circuito com ambos Ampop LM324N e TL082, ficou constatado que com o Ampop LM324N a tensão de saturação positiva 10.76V e saturação negativa -11.31V não foram as mesmas, enquanto que com o Ampop TL082 ambas tensão de saturação positiva e negativa foram identicas 10.37V.
@@ -134,7 +134,7 @@ Dado quando a tensão de entrada determinada foi de 1.04V
 ![parte3](https://i.imgur.com/w55IG8s.jpg)
 Ambos valores no ponto positivo e negativo da saturação foram os mesmos 10,43V/-10,43V respectivamente, sendo o valor de queda +1,57V e -1.57V.
 
-*Conclusão
+*Conclusão:
 
 Analisando as simulações pode ser concluir que o Ampop não-inversor amplifica o sinal, no caso do circuito pedido o sinal de saída foi ampliado onze vezes mais que o sinal de entrada.
 Comparando os resultados ao simular o circuito com ambos Ampop LM324N e TL082, ficou constatado que com o Ampop LM324N a tensão de saturação positiva 10.77V e saturação negativa -11.32V não foram as mesmas, enquanto que com o Ampop TL082 ambas tensão de saturação positiva e negativa foram identicas 10.43V.
@@ -143,8 +143,10 @@ Comparando os resultados ao simular o circuito com ambos Ampop LM324N e TL082, f
 # Parte 4 - Amplificador Subtrator
 
 Calculando o circuito ideal para um Amplificador Subtrator:
+
 ![parte4](https://i.imgur.com/SEC59cY.jpg)
-O valor dado para R1 será 51kΩ.
+
+*O valor dado para R1 será 51kΩ.
 
 Simulando o circuito com:
 
@@ -152,24 +154,39 @@ Simulando o circuito com:
 
 ![parte4](https://i.imgur.com/Zd3YtMf.jpg)
 
-Usando 12V para a tensão de entrada com o ampop LM324N a tensão de saída será de 130.014mV.
+Usando 12V para a tensão de entrada com o ampop LM324N a tensão de saída será de 130.014mV:
 
 ![parte4](https://i.imgur.com/PLU7khy.jpg)
 
-Usando 0V para a tensão de entrada com o ampop LM324N a tensão de saída será de 31.43mV.
+Usando 0V para a tensão de entrada com o ampop LM324N a tensão de saída será de 31.43mV:
 
 ![parte4](https://i.imgur.com/SC55S2d.jpg)
 
-Colocando mais um resistor de 620Ω em seríe com a tensão de entrada 0V, a tensão de saída com o ampop LM324N será 31.43mV. Aproximadamente igual ao circuito anterior.
+Colocando mais um resistor de 620Ω em seríe com a tensão de entrada 5V, a tensão de saída com o ampop LM324N será 58.81mV:
+
+![parter4](https://i.imgur.com/b1tQIE9.jpg)
+
+Colocando mais um resistor de 620Ω em seríe com a tensão de entrada 0V, a tensão de saída com o ampop LM324N será 31.43mV:
 
 ![parte4](https://i.imgur.com/KwCWjwq.jpg)
 
 
 **Ampop TL082**
 
-A tensão de saída no ampop TL082 para ambos os amplificadores foi de 96.8mV. 
+Usando 12V para a tensão de entrada com o ampop TL082 a tensão de saída será de 95.14mV:
 
-Amplificador subtrator!
-![parte4]()
-Amplificador alterador!
-![parte4b]()
+![parte4](https://i.imgur.com/BU0FJ3K.jpg)
+
+Usando 0V para a tensão de entrada com o ampop TL082 a tensão de saída será de 120.67uV:
+
+![parte4](https://i.imgur.com/67VwAe6.jpg)
+
+Colocando mais um resistor de 620Ω em seríe com a tensão de entrada 5V, a tensão de saída com o ampop TL082 será 26.51mV:
+
+![parte4](https://i.imgur.com/uDmMY1J.jpg)
+
+Colocando mais um resistor de 620Ω em seríe com a tensão de entrada 0V, a tensão de saída com o ampop TL082 será 120.67uV:
+
+![parte4](https://i.imgur.com/hAGJkqc.jpg)
+
+*Conclusão:
