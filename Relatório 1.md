@@ -142,14 +142,27 @@ Comparando os resultados ao simular o circuito com ambos Ampop LM324N e TL082, f
 
 # Parte 4 - Amplificador Subtrator
 
+Calculando o circuito ideal para um Amplificador Subtrator:
+![parte4](https://i.imgur.com/SEC59cY.jpg)
+O valor dado para R1 será 51kΩ.
+
+Simulando o circuito com:
+
 **Ampop LM324N**
 
-A tensão de saída no ampop LM324N para ambos os amplificadores foi de 128.81mV
+![parte4](https://i.imgur.com/Zd3YtMf.jpg)
 
-Amplificador subtrator!
-![parte4](https://media.discordapp.net/attachments/700405960866529319/700456738926886992/2020-04-16_10.png?width=950&height=534)
-Amplificador alterador!
-![parte4](https://cdn.discordapp.com/attachments/249608626518360064/700483972555341825/lm324.png)
+Usando 12V para a tensão de entrada com o ampop LM324N a tensão de saída será de 130.014mV.
+
+![parte4](https://i.imgur.com/PLU7khy.jpg)
+
+Usando 0V para a tensão de entrada com o ampop LM324N a tensão de saída será de 31.43mV.
+
+![parte4](https://i.imgur.com/SC55S2d.jpg)
+
+Colocando mais um resistor de 620Ω em seríe com a tensão de entrada 0V, a tensão de saída com o ampop LM324N será 31.43mV. Aproximadamente igual ao circuito anterior.
+
+![parte4](https://i.imgur.com/KwCWjwq.jpg)
 
 
 **Ampop TL082**
@@ -157,6 +170,6 @@ Amplificador alterador!
 A tensão de saída no ampop TL082 para ambos os amplificadores foi de 96.8mV. 
 
 Amplificador subtrator!
-![parte4](https://cdn.discordapp.com/attachments/249608626518360064/700480756606042222/TL082_parted_1.png)
+![parte4]()
 Amplificador alterador!
-![parte4b](https://cdn.discordapp.com/attachments/249608626518360064/700480813149716480/TL082_parted_2.png)
+![parte4b]()
