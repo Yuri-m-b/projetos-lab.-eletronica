@@ -23,11 +23,24 @@ presença destes elementos.
 ![Circuito sem capacitor](https://i.imgur.com/LSTQOWg.jpg)
 Analisando as duas ondas, pode ser notado que Vo tem uma amplitude menor que Vin por causa da queda de tensão sobre o diodo, e nos ciclos negativos de Vin o valor do sinal em Vo se torna 0 devido a polarização inversa do diodo.
 
+### Tensão média e eficaz para os pontos (Vin) e (Vo)
+
+![Circuito sem capacitor](https://i.imgur.com/LGmw0Gx.jpg)
+
+![Circuito sem capacitor](https://i.imgur.com/xeNq0SA.jpg)
+
+### Preenchendo Tabela com os valores medidos sem capacitor
+
+![Circuito sem capacitor](https://i.imgur.com/2XCefNQ.jpg)
+
+
 ### Onda gerada sobre o diodo
 
-!Circuito sem capacitor](https://i.imgur.com/8l6U26L.jpg)
+![Circuito sem capacitor](https://i.imgur.com/8l6U26L.jpg)
 
 O valor maximo da corrente foi de **41,64mA**, com um valor médio de **12,81mA** e valor eficaz de **20,84mA**.
+
+
 
 ## Simulando o circuito com um capacitor de 330uF:
 
