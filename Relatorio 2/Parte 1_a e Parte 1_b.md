@@ -5,19 +5,13 @@ derivação central, medindo as principais grandezas nos circuitos montados;
 -Implementar filtros capacitivos nos retificadores e verificar seu funcionamento com a
 presença destes elementos.
 
-# Parte 01_a
+# Parte 01_a Circuito Retificador de Meia Onda
 
-Para o circuito sem capacitor a corrente no Diodo foi de 60.32mA
-![Circuito sem capacitor](https://i.imgur.com/6UTuYzv.png)
+## Simulando o circuito sem capacitor:
 
-Para o circuito com capacitor de 330uF a corrente no Diodo foi de 838.62mA
-![Circuito capacitor 330uF](https://i.imgur.com/mOglBsA.png)
+![circuito sem capacitor](https://i.imgur.com/tCWH4qA.jpg)
 
-Para o circuito com capacitor de 2200uF a corrente no Diodo foi de 2A
-![Circuito capacitor 2200uF](https://i.imgur.com/zLOpYDI.png)
 
-Os valores calculados foram esses:
-![Tabela](https://i.imgur.com/0ZRFcDM.png)
 
 *Parte 01_b*
 
