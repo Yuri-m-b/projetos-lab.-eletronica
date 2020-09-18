@@ -21,7 +21,7 @@ presença destes elementos.
 ### Onda gerada para as tensões (Vin) e (Vo) no enrolamento secundário
 
 ![Circuito sem capacitor](https://i.imgur.com/LSTQOWg.jpg)
-
+Analisando as duas ondas, pode ser notado que Vo tem uma amplitude menor que Vin por causa da queda de tensão sobre o diodo, e nos ciclos negativos de Vin o valor do sinal em Vo se torna 0 devido a polarização inversa do diodo.
  
 
 
