@@ -46,6 +46,28 @@ O valor maximo da corrente foi de **41,64mA**, com um valor médio de **12,81mA*
 
 ![circuito capacitor 330](https://i.imgur.com/EolIVNx.jpg)
  
+### Onda gerada para as tensões (Vin) e (Vo) no enrolamento secundário
+
+![circuito capacitor 330](https://i.imgur.com/DIGYflf.jpg)
+
+### Tensão média e eficaz para Vo
+
+![circuito capacitor 330](https://i.imgur.com/IcDpRdl.jpg)
+
+Adicionando o capacitor no circuito fez com que a taxa de variação de Vo seja diminuída, no ciclo positivo de Vin o capacitor é carregado, e descarrega no ciclo negativo. A tensão de ripple é a diferença entre a tensão máxima de Vo e a sua tensão quando o capacitor está carregando.
+
+### Preenchendo Tabela com os valores medidos capacitor de 330uF
+
+![circuito capacitor 330](https://i.imgur.com/A1Kd0Dl.jpg)
+
+### Onda gerada sobre o diodo
+
+![circuito capacitor 330](https://i.imgur.com/Eku99v3.jpg)
+
+O valor maximo da corrente foi de **1,48A**, com um valor médio de **102,5mA** e valor eficaz de **317,69mA**.
+
+## Simulando o circuito com um capacitor de 330uF:
+
 
 
 
