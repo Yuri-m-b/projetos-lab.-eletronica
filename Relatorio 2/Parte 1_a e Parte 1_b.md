@@ -1,13 +1,11 @@
-**Parte 1**
-
-*Objetivos*
+# Objetivos
 -Estudar retificadores de meia onda, onda completa em ponte e onda completa com
 derivação central, medindo as principais grandezas nos circuitos montados;
 -Verificar o funcionamento dos retificadores;
 -Implementar filtros capacitivos nos retificadores e verificar seu funcionamento com a
 presença destes elementos.
 
-*Parte 01_a*
+# Parte 01_a
 
 Para o circuito sem capacitor a corrente no Diodo foi de 60.32mA
 ![Circuito sem capacitor](https://i.imgur.com/6UTuYzv.png)
