@@ -66,7 +66,32 @@ Adicionando o capacitor no circuito fez com que a taxa de variação de Vo seja 
 
 O valor maximo da corrente foi de **1,48A**, com um valor médio de **102,5mA** e valor eficaz de **317,69mA**.
 
-## Simulando o circuito com um capacitor de 330uF:
+## Simulando o circuito com um capacitor de 2200uF:
+
+![circuito capacitor 2200](https://i.imgur.com/cfcw5OL.jpg)
+
+### Onda gerada para as tensões (Vin) e (Vo) no enrolamento secundário
+
+![circuito capacitor 2200](https://i.imgur.com/hrg0ZYf.jpg)
+
+### Tensão média e eficaz para Vo
+
+![circuito capacitor 2200](https://i.imgur.com/bcgES7i.jpg)
+
+Com o valor da capacitância do capacitor aumentada consequentemente o valor da tensão de ripple diminuiu.
+
+### Preenchendo Tabela com os valores medidos capacitor de 2200uF
+
+![circuito capacitor 2200](https://i.imgur.com/5wv4ezy.jpg)
+
+### Onda gerada sobre o diodo
+
+![circuito capacitor 2200](https://i.imgur.com/jmP5QY1.jpg)
+
+O valor maximo da corrente foi de **9,89A**, com um valor médio de **522,51mA** e valor eficaz de **1,94A**.
+
+
+
 
 
 
