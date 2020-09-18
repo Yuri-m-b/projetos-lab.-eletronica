@@ -1,7 +1,10 @@
 # Objetivos
+
 -Estudar retificadores de meia onda, onda completa em ponte e onda completa com
 derivação central, medindo as principais grandezas nos circuitos montados;
+
 -Verificar o funcionamento dos retificadores;
+
 -Implementar filtros capacitivos nos retificadores e verificar seu funcionamento com a
 presença destes elementos.
 
@@ -17,8 +20,8 @@ presença destes elementos.
 
 ### Onda gerada para as tensões (Vin) e (Vo) no enrolamento secundário
 
-![Circuito sem capacitor](https://i.imgur.com/6afRyAX.jpg)
 ![Circuito sem capacitor](https://i.imgur.com/LSTQOWg.jpg)
+
  
 
 
