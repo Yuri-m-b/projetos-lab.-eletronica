@@ -11,6 +11,16 @@ presença destes elementos.
 
 ![circuito sem capacitor](https://i.imgur.com/tCWH4qA.jpg)
 
+### Onda gerada para a tensão (Vf) no enrolamento primário
+
+![Circuito sem capacitor](https://i.imgur.com/k130ItG.jpg)
+
+### Onda gerada para as tensões (Vin) e (Vo) no enrolamento secundário
+
+![Circuito sem capacitor](https://i.imgur.com/6afRyAX.jpg)
+![Circuito sem capacitor](https://i.imgur.com/LSTQOWg.jpg)
+ 
+
 
 
 *Parte 01_b*
