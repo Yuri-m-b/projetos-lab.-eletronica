@@ -98,6 +98,8 @@ O valor maximo da corrente foi de **9,89A**, com um valor médio de **522,51mA**
 
 # Parte 01_b
 
-O Resistor shunt é um resistor com um valor de resistência muito baixo, porque ele fica ligado em série com a carga, e usando a queda de tensão sobre esse resistor pode ser determinada a corrente que circula nele. Para determinar o valor do resistor em um circuito pode ser usado a formula de lei de Ohmn onde V=RxI ou R=V/I.
+O Resistor shunt é um resistor com um valor de resistência muito baixo, devido sua baixa resistência e a possibilidade de determinar o seu valor, o resistor shunt pode ser usado para determinar a corrente que circular por ele.
+
+Para determinar o valor do resistor ele deve ser colocado em série com a carga, e os valores podem ser determinado pela queda de tensão, usando a formula de lei de Ohmn onde V=RxI ou R=V/I.
 
 
