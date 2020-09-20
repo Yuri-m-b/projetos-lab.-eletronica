@@ -36,3 +36,35 @@ presença destes elementos.
 
 ![tabela 1](https://i.imgur.com/H0FHU7N.jpg)
 
+# Parte 03: Retificador de Onda Completa com Transformador de Derivação:
+
+## Sem Capacitor:
+
+![sem capacitor](https://i.imgur.com/smTfhxH.jpg)
+
+![sem capacitor](https://i.imgur.com/3XELA2j.jpg)
+
+### V1
+
+![sem capacitor](https://i.imgur.com/1AT2QZf.jpg)
+
+### V2
+
+![sem capacitor](https://i.imgur.com/9Z3h5Sy.jpg)
+
+### Vo
+
+![sem capacitor](https://i.imgur.com/MQvzURi.jpg)
+
+## Com Capacitor de 220u:
+
+![capacitor 220u](https://i.imgur.com/O6g42vI.jpg)
+
+![capcaitor 220u](https://i.imgur.com/GzDPe4Q.jpg)
+
+## Com Capacitor de 1000u:
+
+![capacitor 1000u](https://i.imgur.com/4HLRi1j.jpg)
+
+![capacitor 1000u](https://i.imgur.com/EDLilFb.jpg)
+
