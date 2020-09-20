@@ -68,3 +68,6 @@ presença destes elementos.
 
 ![capacitor 1000u](https://i.imgur.com/EDLilFb.jpg)
 
+## Tabela 2:
+
+![tabela 2](https://i.imgur.com/9smnLHb.jpg)
