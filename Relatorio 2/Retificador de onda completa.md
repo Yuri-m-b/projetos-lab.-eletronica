@@ -52,17 +52,19 @@ presença destes elementos.
 
 ![sem capacitor](https://i.imgur.com/smTfhxH.jpg)
 
+### Ondas dos elementos secundários V1 e V2
+
 ![sem capacitor](https://i.imgur.com/3XELA2j.jpg)
 
-### V1
+### Valores da tensão no secundário V1
 
 ![sem capacitor](https://i.imgur.com/1AT2QZf.jpg)
 
-### V2
+### Valores da tensão no secundário V2
 
 ![sem capacitor](https://i.imgur.com/9Z3h5Sy.jpg)
 
-### Vo
+### Valores de tensão na carga (Vo)
 
 ![sem capacitor](https://i.imgur.com/MQvzURi.jpg)
 
@@ -70,11 +72,15 @@ presença destes elementos.
 
 ![capacitor 220u](https://i.imgur.com/O6g42vI.jpg)
 
+### Valores de tensão na carga (Vo)
+
 ![capcaitor 220u](https://i.imgur.com/GzDPe4Q.jpg)
 
 ## Com Capacitor de 1000u:
 
 ![capacitor 1000u](https://i.imgur.com/4HLRi1j.jpg)
+
+### Valores de tensão na carga (Vo)
 
 ![capacitor 1000u](https://i.imgur.com/EDLilFb.jpg)
 
