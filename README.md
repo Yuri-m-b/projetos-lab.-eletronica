@@ -1,4 +1,4 @@
-# projetos-lab.-eletronica
+# Projetos-lab.-eletronica
 
 Projeto Electronica 2020/1
 
