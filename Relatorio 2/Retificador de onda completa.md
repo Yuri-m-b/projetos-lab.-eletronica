@@ -14,15 +14,15 @@ presença destes elementos.
 
 ![circuito sem capacitor](https://i.imgur.com/MaQKCHs.jpg)
 
-# Formato de onda para o elemento Secundário 1 e Carga
+### Formato de onda para o elemento Secundário 1 e Carga
 
 ![circuito sem capacitor](https://i.imgur.com/oZkEN1k.jpg)
 
-# Valores de tensão medidos para Secundário 1
+### Valores de tensão medidos para Secundário 1
 
 ![circuito sem capacitor](https://i.imgur.com/QKpY0n1.jpg)
 
-# Valores de tensão medidos para Carga
+### Valores de tensão medidos para Carga
 
 ![circuito sem capacitor](https://i.imgur.com/rYudVp6.jpg)
 
@@ -30,7 +30,7 @@ presença destes elementos.
 
 ![circuito com capacitor 220u](https://i.imgur.com/9aYL6Au.jpg)
 
-# Valores de tensão medidos para Carga
+#### Valores de tensão medidos para Carga
 
 ![circuito com capacitor 220u](https://i.imgur.com/06Mgy3m.jpg)
 
@@ -38,7 +38,7 @@ presença destes elementos.
 
 ![circuito com capacitor 1000u](https://i.imgur.com/BYS5QHv.jpg)
 
-# Valores de tensão medidos para Carga
+#### Valores de tensão medidos para Carga
 
 ![circuito com capacitor 1000u](https://i.imgur.com/xUqqq2B.jpg)
 
