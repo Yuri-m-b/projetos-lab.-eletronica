@@ -58,7 +58,7 @@ Adicionando o capacitor no circuito fez com que a taxa de variação de Vo seja 
 
 ### Preenchendo Tabela com os valores medidos capacitor de 330uF
 
-![circuito capacitor 330](https://i.imgur.com/A1Kd0Dl.jpg)
+![circuito capacitor 330](https://i.imgur.com/zP8RhQO.jpg)
 
 ### Onda gerada sobre o diodo
 
@@ -82,7 +82,7 @@ Com o valor da capacitância do capacitor aumentada consequentemente o valor da 
 
 ### Preenchendo Tabela com os valores medidos capacitor de 2200uF
 
-![circuito capacitor 2200](https://i.imgur.com/5wv4ezy.jpg)
+![circuito capacitor 2200](https://i.imgur.com/EhV2KgV.jpg)
 
 ### Onda gerada sobre o diodo
 
