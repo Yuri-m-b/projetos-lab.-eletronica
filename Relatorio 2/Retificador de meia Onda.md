@@ -44,15 +44,15 @@ O valor maximo da corrente foi de **59,78mA**, com um valor médio de **18,57mA*
 
 ## Simulando o circuito com um capacitor de 330uF:
 
-![circuito capacitor 330](https://i.imgur.com/EolIVNx.jpg)
+![circuito capacitor 330](https://i.imgur.com/xgkSVPn.jpg)
  
 ### Onda gerada para as tensões (Vin) e (Vo) no enrolamento secundário
 
-![circuito capacitor 330](https://i.imgur.com/DIGYflf.jpg)
+![circuito capacitor 330](https://i.imgur.com/sancMpV.jpg)
 
 ### Tensão média e eficaz para Vo
 
-![circuito capacitor 330](https://i.imgur.com/IcDpRdl.jpg)
+![circuito capacitor 330](https://i.imgur.com/OOnvTxM.jpg)
 
 Adicionando o capacitor no circuito fez com que a taxa de variação de Vo seja diminuída, no ciclo positivo de Vin o capacitor é carregado, e descarrega no ciclo negativo. A tensão de ripple é a diferença entre a tensão máxima de Vo e a sua tensão quando o capacitor está carregando.
 
@@ -62,9 +62,9 @@ Adicionando o capacitor no circuito fez com que a taxa de variação de Vo seja 
 
 ### Onda gerada sobre o diodo
 
-![circuito capacitor 330](https://i.imgur.com/Eku99v3.jpg)
+![circuito capacitor 330](https://i.imgur.com/edAX3ze.jpg)
 
-O valor maximo da corrente foi de **1,48A**, com um valor médio de **102,5mA** e valor eficaz de **317,69mA**.
+O valor maximo da corrente foi de **2,1A**, com um valor médio de **146,57mA** e valor eficaz de **454,13mA**.
 
 ## Simulando o circuito com um capacitor de 2200uF:
 
