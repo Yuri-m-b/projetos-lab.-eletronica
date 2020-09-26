@@ -50,23 +50,23 @@ presença destes elementos.
 
 ## Sem Capacitor:
 
-![sem capacitor](https://i.imgur.com/smTfhxH.jpg)
+![sem capacitor](https://i.imgur.com/TS0qFXb.jpg)
 
 ### Ondas dos elementos secundários V1 e V2
 
-![sem capacitor](https://i.imgur.com/3XELA2j.jpg)
+![sem capacitor](https://i.imgur.com/SPdqtek.jpg)
 
 ### Valores da tensão no secundário V1
 
-![sem capacitor](https://i.imgur.com/1AT2QZf.jpg)
+![sem capacitor](https://i.imgur.com/MGk1W5e.jpg)
 
 ### Valores da tensão no secundário V2
 
-![sem capacitor](https://i.imgur.com/9Z3h5Sy.jpg)
+![sem capacitor](https://i.imgur.com/nftdRRS.jpg)
 
 ### Valores de tensão na carga (Vo)
 
-![sem capacitor](https://i.imgur.com/MQvzURi.jpg)
+![sem capacitor](https://i.imgur.com/HnmmojX.jpg)
 
 ## Com Capacitor de 220u:
 
