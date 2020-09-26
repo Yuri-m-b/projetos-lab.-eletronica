@@ -28,11 +28,11 @@ presença destes elementos.
 
 ## Com Capacitor de 220u:
 
-![circuito com capacitor 220u](https://i.imgur.com/g0TCL7j.jpg)
+![circuito com capacitor 220u](https://i.imgur.com/g66Y23b.jpg)
 
 #### Valores de tensão medidos para Carga
 
-![circuito com capacitor 220u](https://i.imgur.com/06Mgy3m.jpg)
+![circuito com capacitor 220u](https://i.imgur.com/g0TCL7j.jpg)
 
 ## Com Capacitor de 1000u:
 
