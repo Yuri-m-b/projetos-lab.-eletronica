@@ -28,7 +28,7 @@ presença destes elementos.
 
 ## Com Capacitor de 220u:
 
-![circuito com capacitor 220u](https://i.imgur.com/9aYL6Au.jpg)
+![circuito com capacitor 220u](https://i.imgur.com/g0TCL7j.jpg)
 
 #### Valores de tensão medidos para Carga
 
