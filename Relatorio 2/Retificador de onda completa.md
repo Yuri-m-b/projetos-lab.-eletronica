@@ -36,11 +36,11 @@ presença destes elementos.
 
 ## Com Capacitor de 1000u:
 
-![circuito com capacitor 1000u](https://i.imgur.com/BYS5QHv.jpg)
+![circuito com capacitor 1000u](https://i.imgur.com/j4WxjbC.jpg)
 
 #### Valores de tensão medidos para Carga
 
-![circuito com capacitor 1000u](https://i.imgur.com/xUqqq2B.jpg)
+![circuito com capacitor 1000u](https://i.imgur.com/CqVGdWI.jpg)
 
 ## Tabela 1 para os valores medidos
 
