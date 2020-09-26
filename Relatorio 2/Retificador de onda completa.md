@@ -44,29 +44,29 @@ presença destes elementos.
 
 ## Tabela 1 para os valores medidos
 
-![tabela 1](https://i.imgur.com/H0FHU7N.jpg)
+![tabela 1](https://i.imgur.com/yWs3t6D.jpg)
 
 # Parte 03: Retificador de Onda Completa com Transformador de Derivação:
 
 ## Sem Capacitor:
 
-![sem capacitor](https://i.imgur.com/TS0qFXb.jpg)
+![sem capacitor](https://i.imgur.com/6RX87He.jpg)
 
 ### Ondas dos elementos secundários V1 e V2
 
-![sem capacitor](https://i.imgur.com/SPdqtek.jpg)
+![sem capacitor](https://i.imgur.com/Ze89HWL.jpg)
 
 ### Valores da tensão no secundário V1
 
-![sem capacitor](https://i.imgur.com/MGk1W5e.jpg)
+![sem capacitor](https://i.imgur.com/wdUKBzX.jpg)
 
 ### Valores da tensão no secundário V2
 
-![sem capacitor](https://i.imgur.com/nftdRRS.jpg)
+![sem capacitor](https://i.imgur.com/Zh5xzX7.jpg)
 
 ### Valores de tensão na carga (Vo)
 
-![sem capacitor](https://i.imgur.com/HnmmojX.jpg)
+![sem capacitor](https://i.imgur.com/GYW3zt6.jpg)
 
 ## Com Capacitor de 220u:
 
