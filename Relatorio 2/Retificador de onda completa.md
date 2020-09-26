@@ -86,4 +86,4 @@ presença destes elementos.
 
 ## Tabela 2:
 
-![tabela 2](https://i.imgur.com/9smnLHb.jpg)
+![tabela 2](https://i.imgur.com/fQytLVn.jpg)
