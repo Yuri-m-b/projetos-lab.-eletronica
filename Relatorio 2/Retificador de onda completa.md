@@ -70,11 +70,11 @@ presença destes elementos.
 
 ## Com Capacitor de 220u:
 
-![capacitor 220u](https://i.imgur.com/IHdzg4q.jpg)
+![capacitor 220u](https://i.imgur.com/L1EZqHW.jpg)
 
 ### Valores de tensão na carga (Vo)
 
-![capcaitor 220u](https://i.imgur.com/ovM9crj.jpg)
+![capcaitor 220u](https://i.imgur.com/BulB0Xd.jpg)
 
 ## Com Capacitor de 1000u:
 
