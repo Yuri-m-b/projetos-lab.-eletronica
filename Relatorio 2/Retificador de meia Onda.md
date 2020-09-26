@@ -12,22 +12,22 @@ presença destes elementos.
 
 ## Simulando o circuito sem capacitor:
 
-![circuito sem capacitor](https://i.imgur.com/tCWH4qA.jpg)
+![circuito sem capacitor](https://i.imgur.com/sPdN1qN.jpg)
 
 ### Onda gerada para a tensão (Vf) no enrolamento primário
 
-![Circuito sem capacitor](https://i.imgur.com/k130ItG.jpg)
+![Circuito sem capacitor](https://i.imgur.com/yQjVFRl.jpg)
 
 ### Onda gerada para as tensões (Vin) e (Vo) no enrolamento secundário
 
-![Circuito sem capacitor](https://i.imgur.com/LSTQOWg.jpg)
+![Circuito sem capacitor](https://i.imgur.com/puZ3h3c.jpg)
 Analisando as duas ondas, pode ser notado que Vo tem uma amplitude menor que Vin por causa da queda de tensão sobre o diodo, e nos ciclos negativos de Vin o valor do sinal em Vo se torna 0 devido a polarização inversa do diodo.
 
 ### Tensão média e eficaz para os pontos (Vin) e (Vo)
 
-![Circuito sem capacitor](https://i.imgur.com/LGmw0Gx.jpg)
+![Circuito sem capacitor](https://i.imgur.com/YKA1xoO.jpg)
 
-![Circuito sem capacitor](https://i.imgur.com/xeNq0SA.jpg)
+![Circuito sem capacitor](https://i.imgur.com/KcpyD8T.jpg)
 
 ### Preenchendo Tabela com os valores medidos sem capacitor
 
@@ -36,9 +36,9 @@ Analisando as duas ondas, pode ser notado que Vo tem uma amplitude menor que Vin
 
 ### Onda gerada sobre o diodo
 
-![Circuito sem capacitor](https://i.imgur.com/8l6U26L.jpg)
+![Circuito sem capacitor](https://i.imgur.com/O1NHbiS.jpg)
 
-O valor maximo da corrente foi de **41,64mA**, com um valor médio de **12,81mA** e valor eficaz de **20,84mA**.
+O valor maximo da corrente foi de **59,78mA**, com um valor médio de **18,57mA** e valor eficaz de **29,544mA**.
 
 
 
