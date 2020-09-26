@@ -12,19 +12,19 @@ presença destes elementos.
 
 ## Sem Capacitor:
 
-![circuito sem capacitor](https://i.imgur.com/MaQKCHs.jpg)
+![circuito sem capacitor](https://i.imgur.com/HcxywWY.jpg)
 
 ### Formato de onda para o elemento Secundário 1 e Carga
 
-![circuito sem capacitor](https://i.imgur.com/oZkEN1k.jpg)
+![circuito sem capacitor](https://i.imgur.com/29tTdmp.jpg)
 
 ### Valores de tensão medidos para Secundário 1
 
-![circuito sem capacitor](https://i.imgur.com/QKpY0n1.jpg)
+![circuito sem capacitor](https://i.imgur.com/krASK7u.jpg)
 
 ### Valores de tensão medidos para Carga
 
-![circuito sem capacitor](https://i.imgur.com/rYudVp6.jpg)
+![circuito sem capacitor](https://i.imgur.com/xuNsovQ.jpg)
 
 ## Com Capacitor de 220u:
 
