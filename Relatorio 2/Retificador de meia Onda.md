@@ -31,7 +31,7 @@ Analisando as duas ondas, pode ser notado que Vo tem uma amplitude menor que Vin
 
 ### Preenchendo Tabela com os valores medidos sem capacitor
 
-![Circuito sem capacitor](https://i.imgur.com/2XCefNQ.jpg)
+![Circuito sem capacitor](https://i.imgur.com/0je22PS.jpg)
 
 
 ### Onda gerada sobre o diodo
