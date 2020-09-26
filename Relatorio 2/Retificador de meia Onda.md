@@ -68,15 +68,15 @@ O valor maximo da corrente foi de **2,1A**, com um valor médio de **146,57mA** 
 
 ## Simulando o circuito com um capacitor de 2200uF:
 
-![circuito capacitor 2200](https://i.imgur.com/cfcw5OL.jpg)
+![circuito capacitor 2200](https://i.imgur.com/DUyVuIe.jpg)
 
 ### Onda gerada para as tensões (Vin) e (Vo) no enrolamento secundário
 
-![circuito capacitor 2200](https://i.imgur.com/hrg0ZYf.jpg)
+![circuito capacitor 2200](https://i.imgur.com/RMT4Nac.jpg)
 
 ### Tensão média e eficaz para Vo
 
-![circuito capacitor 2200](https://i.imgur.com/bcgES7i.jpg)
+![circuito capacitor 2200](https://i.imgur.com/i8aMXRp.jpg)
 
 Com o valor da capacitância do capacitor aumentada consequentemente o valor da tensão de ripple diminuiu.
 
@@ -86,9 +86,9 @@ Com o valor da capacitância do capacitor aumentada consequentemente o valor da 
 
 ### Onda gerada sobre o diodo
 
-![circuito capacitor 2200](https://i.imgur.com/jmP5QY1.jpg)
+![circuito capacitor 2200](https://i.imgur.com/FU7rzwb.jpg)
 
-O valor maximo da corrente foi de **9,89A**, com um valor médio de **522,51mA** e valor eficaz de **1,94A**.
+O valor maximo da corrente foi de **13,96A**, com um valor médio de **751,24mA** e valor eficaz de **2,78A**.
 
 
 
