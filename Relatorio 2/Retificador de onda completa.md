@@ -78,11 +78,11 @@ presença destes elementos.
 
 ## Com Capacitor de 1000u:
 
-![capacitor 1000u](https://i.imgur.com/j69eGpJ.jpg)
+![capacitor 1000u](https://i.imgur.com/sRkVk90.jpg)
 
 ### Valores de tensão na carga (Vo)
 
-![capacitor 1000u](https://i.imgur.com/f0uO22R.jpg)
+![capacitor 1000u](https://i.imgur.com/eQpiboE.jpg)
 
 ## Tabela 2:
 
