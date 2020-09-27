@@ -7,13 +7,13 @@
 
 Calculando o valor escolhido para capacitor:
 
-[parte1](https://i.imgur.com/c7U3qqu.jpg)
+![parte1](https://i.imgur.com/c7U3qqu.jpg)
 
 Montando circuito no simulador:
 
-[parte1](https://i.imgur.com/mvLKaus.jpg)
+![parte1](https://i.imgur.com/mvLKaus.jpg)
 
 Tensão gerada no ponto Vcc:
 
-[parte1](https://i.imgur.com/OOe88l8.jpg)
+![parte1](https://i.imgur.com/OOe88l8.jpg)
 
