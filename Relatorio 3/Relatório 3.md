@@ -17,3 +17,6 @@ Tensão gerada no ponto Vcc:
 
 ![parte1](https://i.imgur.com/OOe88l8.jpg)
 
+Analisando a onda gerada no ponto Vcc, tendo como tensão de pico usada de 33.3V,e o valor do capacitor de 50uF, a tensão de Riple encontrada foi de 0,873V.
+
+# Parte 02: Circuito Referência com diodo Zener
