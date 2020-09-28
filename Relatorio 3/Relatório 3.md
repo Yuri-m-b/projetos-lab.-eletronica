@@ -17,7 +17,7 @@
 
 ![parte1](https://i.imgur.com/OOe88l8.jpg)
 
-### Analisando a onda gerada no ponto Vcc, tendo como tensão de pico usada de 33.3V,e o valor do capacitor de 50uF, a tensão de Riple encontrada foi de 0,873V.
+Analisando a onda gerada no ponto Vcc, tendo como tensão de pico usada de 33.3V,e o valor do capacitor de 50uF, a tensão de Riple encontrada foi de 0,873V.
 
 # Parte 02: Circuito Referência com Diodo Zener
 
@@ -63,7 +63,11 @@ Ao mudar a corrente do diodo zener para 1.5mA, os valores do resistor R e Vz0 ta
 
 ![parte2](https://i.imgur.com/9Ubq13f.jpg)
 
+Após adicionar uma carga, a tensão vcc manteve-se em aproximadamente em 29V, porém a corrente no resistor zener caiu drasticamente para 374.10uA devido a adição do transistor.
 
+## Calculando Regulação
+
+![parte2](https://i.imgur.com/hy2DWzU.jpg)
 
 
 
