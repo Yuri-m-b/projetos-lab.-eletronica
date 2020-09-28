@@ -67,7 +67,7 @@ Após adicionar uma carga, a tensão vcc manteve-se em aproximadamente em 29V, p
 
 ## Calculando Regulação
 
-![parte2](https://i.imgur.com/hy2DWzU.jpg)
+![parte2](https://i.imgur.com/mnWz2bA.jpg)
 
 
 
