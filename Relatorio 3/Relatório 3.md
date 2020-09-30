@@ -53,7 +53,11 @@ Pode ser notar uma leve diferença na tensão de Pico agora estando em 31.97V, e
 
 Ao mudar a corrente do diodo zener para 1.5mA, os valores do resistor R e Vz0 também sofreram uma mudança, esses fatores fizeram com que a tensão de saída Vcc agora esteja quase idêntica ao valor calculado.
 
-## Parte C: Alimentao Carga
+## Parte C: Alimentção Carga
+
+### Calculando Regulação
+
+![parte2](https://i.imgur.com/mnWz2bA.jpg)
 
 ### Montando Circuito:
 
@@ -65,9 +69,6 @@ Ao mudar a corrente do diodo zener para 1.5mA, os valores do resistor R e Vz0 ta
 
 Após adicionar uma carga, a tensão vcc manteve-se em aproximadamente em 29V, porém a corrente no resistor zener caiu drasticamente para 374.10uA devido a adição do transistor.
 
-## Calculando Regulação
-
-![parte2](https://i.imgur.com/mnWz2bA.jpg)
 
 
 
