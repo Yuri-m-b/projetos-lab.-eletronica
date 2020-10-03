@@ -61,7 +61,7 @@ Ao mudar a corrente do diodo zener para 1.5mA, os valores do resistor R e Vz0 ta
 
 ### Montando Circuito:
 
-![parte2](https://i.imgur.com/upt5dhI.jpg)
+![parte2](https://i.imgur.com/dDsUB10.jpg)
 
 ### Analisando Onda:
 
