@@ -21,7 +21,7 @@ Vt= 2.154V
 
 ## Calculando RDS para as tensões VGS DE 2V, 3V, 4V, 5V e 10V:
 
-![calculo](https://i.imgur.com/YMuSRIm.jpg)
+![calculo](https://i.imgur.com/vt5GGou.jpg)
 
 Comparando os valores de RDS calculados com o valor máximo de RDS dado no datasheet, os valroes calculas estão bem abaixo do limite.
 
@@ -39,7 +39,15 @@ Comparando os valores de RDS calculados com o valor máximo de RDS dado no datas
 
 ![circuito](https://i.imgur.com/TPso6ml.jpg)
 
+Comparado com a onda simulada no datasheet, as duas são parecidas.
+
+![circuitodatasheet](https://i.imgur.com/uolHCb2.jpg)
+
 ## Obtendo valor de RDS utilizando a curva ID x VDS
+
+#Polarização de transistores do tipo NMOS:
+
+
 
 
 
