@@ -53,6 +53,11 @@ Comparado com a onda simulada no datasheet, as duas são parecidas.
 
 ## Simulando transistor e comparando resultados
 
+![simulando](https://i.imgur.com/wozrXnX.jpg)
+
+![calculoregiaosimulado](https://i.imgur.com/lKgdkxU.jpg)
+
+Comparando a região calculada e a região simulada, ambas estão na região de saturação.
 
 
 
