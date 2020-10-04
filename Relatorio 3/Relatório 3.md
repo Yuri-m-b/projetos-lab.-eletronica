@@ -61,13 +61,13 @@ Ao mudar a corrente do diodo zener para 1.5mA, os valores do resistor R e Vz0 ta
 
 ### Montando Circuito:
 
-![parte2](https://i.imgur.com/dDsUB10.jpg)
+![parte2](https://i.imgur.com/rA2OIK7.jpg)
 
 ### Analisando Onda:
 
-![parte2](https://i.imgur.com/9Ubq13f.jpg)
+![parte2](https://i.imgur.com/IPlcHvA.jpg)
 
-Após adicionar uma carga, a tensão vcc manteve-se em aproximadamente em 29V, porém a corrente no resistor zener caiu drasticamente para 374.10uA devido a adição do transistor.
+Ao simular o circuito com o diodo zener escolhido a tensão de pico no shut
 
 
 
