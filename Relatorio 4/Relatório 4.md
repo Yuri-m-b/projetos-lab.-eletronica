@@ -45,7 +45,11 @@ Comparado com a onda simulada no datasheet, as duas são parecidas.
 
 ## Obtendo valor de RDS utilizando a curva ID x VDS
 
-#Polarização de transistores do tipo NMOS:
+# Polarização de transistores do tipo NMOS:
+
+## Encontrando região em que o transistor se encontra polarizado
+
+
 
 
 
