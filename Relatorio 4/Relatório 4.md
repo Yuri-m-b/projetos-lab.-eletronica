@@ -59,6 +59,13 @@ Comparado com a onda simulada no datasheet, as duas são parecidas.
 
 Comparando a região calculada e a região simulada, ambas estão na região de saturação.
 
+# Espelho de corrente com transistores do tipo NMOS:
+
+## Explicando funcionamento do circuito
+
+No circuito Q1 está funcionando como um diodo, e a corrente que passar sobre Q1 é a mesma que passa sobre R1, dessa forma essa corrente pode ser chamada de IRef, a tensão gerada em Q1 polariza o transistor Q2, dessa forma a corrente I2 será a mesma corrente que passa por Q1. Consequentemente o circuito pode ser denominado "espelho de corrente", onde Q1 é um convertor de corrente para tensão e Q2 convertor de tensão para corrente.
+
+
 
 
 
