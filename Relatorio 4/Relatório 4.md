@@ -76,7 +76,25 @@ No circuito Q1 está funcionando como um diodo, e a corrente que passar sobre Q1
 
 ![calculoespelho](https://i.imgur.com/9XPL1z9.jpg)
 
+O valor máximo calculado para R2 foi de 1023,66 ohms.
+
 ## Comparando os resultados obtidos com a teoria
+
+![circuitoespelho2](https://i.imgur.com/pJY4vEw.jpg)
+
+![calculosimulacao](https://i.imgur.com/LQnmpXv.jpg)
+
+A diferença entre o valor para R2 teorico e simulado foi de 181,91 ohms.
+
+
+
+
+
+
+
+
+
+
 
 
 
