@@ -49,6 +49,9 @@ Comparado com a onda simulada no datasheet, as duas são parecidas.
 
 ## Encontrando região em que o transistor se encontra polarizado
 
+![calculoregiao](https://i.imgur.com/k3aRBmi.jpg)
+
+## Simulando transistor e comparando resultados
 
 
 
