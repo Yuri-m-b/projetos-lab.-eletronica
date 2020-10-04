@@ -67,9 +67,18 @@ No circuito Q1 está funcionando como um diodo, e a corrente que passar sobre Q1
 
 ## Variando a resistência R2 e traçando a curva ID2 x V2
 
+### Montando o circuito
+
+![circuitomontando](https://i.imgur.com/CUhS8Ij.jpg)
+
+
 ## Obtendo o valor máximo de R2 para o espelho de corrente
 
+![calculoespelho](https://i.imgur.com/9XPL1z9.jpg)
+
 ## Comparando os resultados obtidos com a teoria
+
+
 
 
 
