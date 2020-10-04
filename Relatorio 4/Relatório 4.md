@@ -31,6 +31,16 @@ Comparando os valores de RDS calculados com o valor máximo de RDS dado no datas
 
 ## Obtendo as curvas ID x VDS
 
+### Montando Circuito
+
+![circuito](https://i.imgur.com/qQ6qjtP.jpg)
+
+### Simulando
+
+![circuito](https://i.imgur.com/TPso6ml.jpg)
+
+## Obtendo valor de RDS utilizando a curva ID x VDS
+
 
 
 
