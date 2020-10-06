@@ -86,6 +86,22 @@ O valor máximo calculado para R2 foi de 1023,66 ohms.
 
 A diferença entre o valor para R2 teorico e simulado foi de 181,91 ohms.
 
+# Parte 03: Inversor com transistor do tipo NMOS (NMOS Inverter):
+
+## Montando circuito
+
+![circuitoparte3](https://i.imgur.com/UGHXnqS.jpg)
+
+## Comparando formas de ondas de entrada e de saída
+
+![ondavin](https://i.imgur.com/shM46cO.jpg
+
+![ondavout](https://i.imgur.com/Xh3OUG4.jpg)
+
+
+
+
+
 
 
 
