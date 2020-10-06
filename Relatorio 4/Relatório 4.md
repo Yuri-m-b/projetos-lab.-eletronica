@@ -98,6 +98,17 @@ A diferença entre o valor para R2 teorico e simulado foi de 181,91 ohms.
 
 ![ondavout](https://i.imgur.com/Xh3OUG4.jpg)
 
+Comparando ambas ondas de saída, pode ser notado que a onda Vin permanece por mais tempo no seu menor ponto (0V) enquanto que a onda em Vout permanece por mais tempo no seu maior ponto (5V), outra característica que poder ser notada na onda Vout são os pequenos picos que levam a tensão para aproximadamnete 6V ou -0.7V, essa característica não acontece na tensão de entrada.
+
+## Calculando o valor de RDS para o transistor nesta condição de operação
+
+![calculordsparte3](https://i.imgur.com/EpHrxBe.jpg)
+
+## Calculando o valor de RDS caso Vin seja reduzido para 2.5V
+
+![calculordsparte3](https://i.imgur.com/mo5mbd1.jpg)
+
+
 
 
 
