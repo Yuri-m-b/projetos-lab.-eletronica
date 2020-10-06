@@ -94,7 +94,7 @@ A diferença entre o valor para R2 teorico e simulado foi de 181,91 ohms.
 
 ## Comparando formas de ondas de entrada e de saída
 
-![ondavin](https://i.imgur.com/shM46cO.jpg
+![ondavin](https://i.imgur.com/shM46cO.jpg)
 
 ![ondavout](https://i.imgur.com/Xh3OUG4.jpg)
 
