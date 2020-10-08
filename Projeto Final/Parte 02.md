@@ -7,3 +7,5 @@
 ## No circuito referência de tensão zener (R1 e D3) o circuito pode ser melhorado?
 
 ![circuito](https://i.imgur.com/Js8L4sC.jpg)
+
+
