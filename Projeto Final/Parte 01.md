@@ -14,4 +14,6 @@ Para o circuito operar como um LDO ( Low Dropout), a queda de tensão precisa se
 
 ### Como obter as tensões de alimentação para o AmpOp (VCC e Vee)?
 
+Basta calcular Vcc= Vin x 2,8 = 33,6V esse será o valor da saída do duplicador de tensão, e Vee será ligado ao terra ou seja 0V
+
 
