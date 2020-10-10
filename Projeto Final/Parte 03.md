@@ -1,6 +1,6 @@
 # Objetivo
 
-### Adicionar um circuito de proteção de sobre corrente ao regulador linear
+### Adicionar um circuito de proteção de sobrecorrente ao regulador linear
 
 ![circuito_exemplo](https://i.imgur.com/3msZi1m.jpg)
 
