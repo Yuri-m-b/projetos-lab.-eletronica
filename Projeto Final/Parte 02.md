@@ -24,6 +24,9 @@ Foram usados os transistores 2SA1774 por causa do seu valor de Hfe ser no mín 1
 
 ![ondas_parte2](https://i.imgur.com/jlIZqrz.jpg)
 
+### Escolhendo o transistor M1 (IRF540) e calculando R2 e R3
+
+
 
 
 
