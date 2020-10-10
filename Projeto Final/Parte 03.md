@@ -22,7 +22,7 @@
 
 Primeiramente a função básica para um circuito regulador LDO, é regular uma corrente de tensão de output gerada por uma corrente de tensão alta de input. O que torna um circuito a ser considerado LDO (Low-Dropout Regulator] são suas características; uma delas sendo a tensão de Dropout, essa tensão se refere a tensão mínima diferencial em relação a tensão de input Vin, essa tensão precisa ser mantida acima da tensão desejada de output Vout.
 
-A arquitetura do LDO determina o dropout, no caso do circuito construído na aula de Eletrônica I será usado um "PMOS LDOs" (Figura a seguir)
+A arquitetura do LDO determina o dropout, no caso do circuito construído na aula de Eletrônica I será usado um "PMOS LDOs" (Figura a seguir):
 
 ![pmoldo](https://i.imgur.com/cvlBFcY.jpg)
 
@@ -32,7 +32,20 @@ Outro fator importante para fazer com que o LDO opere normalmente, é ter um cap
 
 Um fator que normalmente deve ser pensando no momento de criação de um circuito LDO é a temperatura que o circuitos e os componentes podem chegar no momento de uso do circuito, entretanto como no projeto o circuito está sendo feito completamente por simuladores, o fator temperatura não impacta no resultado final.
 
-Pensando em diferentes situações em que o regulado LDO pode ser submetido, a adição de uma medida de segurança como um limitador para corrente, pode ser crucial para o funcionamento do circuito. Existem maneiras diferentes de preparar um limitador de corrente para o circuito projetado, porém para o projeto dado a proteção foldback é a melhor escolha para evitar possíveis danos ao regulador LDO em casos de curtos. A proteção foldback tem como função limitar a dissipação total da potência, mantendo o transistor de saída dentro do seu limite de segurança, isso acontece ao reduzir a corrente de saída linearmente quando Vout está diminuindo e Vin permanecendo estável
+Pensando em diferentes situações em que o regulado LDO pode ser submetido, a adição de uma medida de segurança como um limitador para corrente, pode ser crucial para o funcionamento do circuito. Existem maneiras diferentes de preparar um limitador de corrente para o circuito projetado, porém para o projeto dado a proteção foldback é a melhor escolha para evitar possíveis danos ao regulador LDO em casos de curtos. A proteção foldback tem como função limitar a dissipação total da potência, mantendo o transistor de saída dentro do seu limite de segurança, isso acontece ao reduzir a corrente de saída linearmente quando Vout está diminuindo e Vin permanecendo estável.
+
+# Referências
+
+https://www.docsity.com/pt/sobrecorrentes/4751065/
+
+https://edisciplinas.usp.br/pluginfile.php/5575075/mod_resource/content/3/teo_dispositivos_protecao.pdf
+
+https://ti.com/ldo
+
+https://www.st.com/content/st_com/en/about/events/events.html/understanding-ldo-architectures-webinar-ame-2019.html
+
+
+
 
 
 
