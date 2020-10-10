@@ -22,9 +22,9 @@
 
 Primeiramente a função básica para um circuito regulador LDO, é regular uma corrente de tensão de output gerada por uma corrente de tensão alta de input. O que torna um circuito a ser considerado LDO (Low-Dropout Regulator] são suas características; uma delas sendo a tensão de Dropout, essa tensão se refere a tensão mínima diferencial em relação a tensão de input Vin, essa tensão precisa ser mantida acima da tensão desejada de output Vout.
 
-A arquitetura do LDO determina o dropout, no caso do circuito construído na aula de Eletrônica I será usado um "PMOS LDOs" (Figura a seguir):
+A arquitetura do LDO determina o dropout, no caso do circuito construído na aula de Eletrônica I será usado um "NMOS LDOs" porém com um dobrador de tensão alimentando o ampop (Figura a seguir):
 
-![pmoldo](https://i.imgur.com/cvlBFcY.jpg)
+![nmoldo](https://i.imgur.com/Xrx1WJt.jpg)
 
 Com o objetivo de regular a tensão desejada para o output, o circuito de feedback tem como função controlar a resistência do dreno para a fonte (Rds), conforme Vin se aproxima de Vout, o amplificador de erro irá reduzir a tensão de "gate-to-source"(Vgs) para manter o Rds baixo e assim mantendo a regulação. Todavia em determinado ponto, o amplificador de erro não conseguira reduzir mais a tensão Vgs, então Rds vai ter alcançado seu valor minimo. Multiplicando esse valor de Rds pelo valor da corrente output (Iout), será obtido o valor da tensão de dropout. 
 
