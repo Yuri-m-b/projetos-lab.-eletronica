@@ -14,11 +14,15 @@ situação, além de danificar os componentes da rede, pode provocar, inclusive,
 
   A função de um circuito de proteção têm como objetivo interromper o circuito, existem diversos dispositivos diferentes que podêm ser usados no circuito para proteção como "fusíveis" ou "no fuse". Esses dispositivos tem como características técnicas a Corrente Nominal, Curva Temperatura-Corrente e Capacidade Disruptiva, com esses valores dados pelos fabricantes pode ser escolhido o melhor dispositivo adequado para o circuito que está sendo projetado.
   
-  ## O que é proteção foldback?
+## O que é proteção foldback?
   
  Proteção foldback é um método de proteção usado principalmente em fontes de alimentação, com o intuito de proteger a fonte de curtos-circuitos na saída. Na proteção foldback quando a tensão diminui o limite de corrente também é reduzido, fornecendo assim uma proteção maior para o dispositivo evitando com que uma corrente não planejada danifique o equipamento. O gráfico a seguir demonstra essa característica.
   
 ![grafico](https://i.imgur.com/S6PWJ4I.gif)
+
+## Sobre o circuito LDO, e o que deve ser levado em consideração para o regulador?
+
+
   
   
 
