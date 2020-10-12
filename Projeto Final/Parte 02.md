@@ -26,6 +26,8 @@ Foram usados os transistores 2SA1774 por causa do seu valor de Hfe ser no mín 1
 
 ### Escolhendo o transistor M1 (IRF540) e calculando R2 e R3
 
+Fazendo o divisor de tensão para o R2 e R3 se chega ao valor de Rref = 15k dividindo esse valor por 2 pode ser considerar R2 = R3 = 7500 ohms
+
 
 
 
