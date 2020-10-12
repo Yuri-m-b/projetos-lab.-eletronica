@@ -18,7 +18,7 @@ Esse circuito têm como ser melhorado caso fosse adicionado um potênciometro em
 
 ### Montando no simulador
 
-![circuitoparte2](https://i.imgur.com/27HJN4L.jpg)
+![circuitoparte2](https://i.imgur.com/ZpWWqhx.jpg)
 
 Foram usados os transistores 2SA1774 por causa do seu valor de Hfe ser no mín 120 e no max 560. A tensão de entrada no díodo zener ficou em 14,94V tendo perdido apenas 1,22V da tensão de Pico inicial.
 
