@@ -36,4 +36,17 @@ O objetivo desse projeto é a criação de uma fonte linear, construída em etap
 4- Construir bloco para proteção do circuito.
 5- Simular todos os blocos juntos.
 
-#
+# Transformador e Retificador:
+
+O transformador no circuito tem como função modificar os níveis de tensão e corrente elétrica, que estão sendo originadas da tomada (220V), porém ao mesmo tempo mantendo a potência elétrica o mais constante possível, alterando também os valores de impedância elétrica do circuito.
+Enquanto o transformador trabalhar em modificar os níveis de tensão e corrente elétrica o retificador tem como objetivo fazer a conversão da corrente alternada em corrente de passagem, ou seja corrente contínua que será usada para o sistema.
+
+![transformador e retificador](https://i.imgur.com/5mcMWwM.jpg) (Transformador e Retificador)
+
+![onda transformador](https://i.imgur.com/GyT2Gab.jpg) (Tensão de entrada)
+
+![onda retificador](https://i.imgur.com/T0rfyJl.jpg) (Tensão no retificador)
+
+
+
+
