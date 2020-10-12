@@ -115,7 +115,9 @@ Foram alcançados valores muitos proximos aos desejados, sendo Vout 14.8V e IR13
 
 # Conclusão
 
-Embora os valores na saída ficaram muitos proxímos aos valores desejados para a fonte, poderia ainda ser feitos melhorias nos valores dos resistores e a escolha de outros modelos para os transistores que fizessem com que pelo menos a corrente de saída chegasse ainda mais proximo ao valor 1A.
+Embora os valores na saída ficaram muitos próximos aos valores desejados para a fonte, poderia ainda ser feito melhorias nos valores dos resistores e a escolha de outros modelos para os transistores que fizessem com que pelo menos a corrente de saída chegasse ainda mais próximo ao valor 1A.
+O ripple na saída ficou baixo porém ele ainda aparece na onda de saída (Vout), esse riple poderia ser reduzido caso fosse adicionado mais alguns filtros no circuito. Outro aperfeiçoamento seria o acoplamento de um potenciômetro sobre o diodo 3.
+
 
 
 
