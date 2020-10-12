@@ -67,10 +67,19 @@ Feito no simulador
 
 Saída Vcc
 
-![onda saida vcc](https://i.imgur.com/PCh4d47.jpg
+![onda saida vcc](https://i.imgur.com/PCh4d47.jpg)
 
-# Bloco para poralizar o diodo zener DI_1N4744A
+# Bloco para poralizar o Diodo Zener DI_1N4744A
 
+Ao poralizar o Diodo Zener, esse diodo irá funcionar como qualquer outro diodo, ou seja ele não conduz corrente elétrica enquanto a tensão aplicada aos seus terminais for inferior a aproximadamente 0.3V-0.6V, a partir dessa tensão mínima começa a condução elétrica.
+
+Calculo poralizador do diodo zener
+
+![calculo_poralizardiodo](https://i.imgur.com/xwiB5m4.jpg
+
+Feito no Simulador
+
+![bloco](https://i.imgur.com/o7kiA5n.jpg)
 
 
 
