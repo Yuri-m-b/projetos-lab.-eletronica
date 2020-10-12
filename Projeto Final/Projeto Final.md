@@ -53,6 +53,24 @@ Enquanto o transformador trabalhar em modificar os níveis de tensão e corrente
 
 ![onda retificador](https://i.imgur.com/T0rfyJl.jpg)
 
+# Bloco para alimentação do AmpOp
+
+O intuito desse bloco é fazer com que o AmpOp receba aproximadamente 33V na sua entrada Vcc de forma contínua, reduzindo ao máximo qualquer tensão de ripple que apareça no processo. Foi usado o diodo zener 1N4751A por ser adequar com a tensão de 33v que está sendo filtrada pelos capacitores C2 e C3.
+
+Calculos para os valores dos capacitores C2 e C3 e do resistor R3
+
+![calculo_amplificador de tensao](https://i.imgur.com/0UEcNDw.jpg)
+
+Feito no simulador
+
+![amplificador de tensao](https://i.imgur.com/ntJIRIu.jpg)
+
+Saída Vcc
+
+![onda saida vcc](https://i.imgur.com/PCh4d47.jpg
+
+# Bloco para poralizar o diodo zener DI_1N4744A
+
 
 
 
