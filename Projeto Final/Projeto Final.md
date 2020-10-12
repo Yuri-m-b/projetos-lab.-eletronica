@@ -57,15 +57,15 @@ Enquanto o transformador trabalhar em modificar os níveis de tensão e corrente
 
 O intuito desse bloco é fazer com que o AmpOp receba aproximadamente 33V na sua entrada Vcc de forma contínua, reduzindo ao máximo qualquer tensão de ripple que apareça no processo. Foi usado o diodo zener 1N4751A por ser adequar com a tensão de 33v que está sendo filtrada pelos capacitores C2 e C3.
 
-Calculos para os valores dos capacitores C2 e C3 e do resistor R3
+### Calculos para os valores dos capacitores C2 e C3 e do resistor R3
 
 ![calculo_amplificador de tensao](https://i.imgur.com/0UEcNDw.jpg)
 
-Feito no simulador
+### Feito no simulador
 
 ![amplificador de tensao](https://i.imgur.com/ntJIRIu.jpg)
 
-Saída Vcc
+### Saída Vcc
 
 ![onda saida vcc](https://i.imgur.com/PCh4d47.jpg)
 
@@ -73,13 +73,19 @@ Saída Vcc
 
 Ao poralizar o Diodo Zener, esse diodo irá funcionar como qualquer outro diodo, ou seja ele não conduz corrente elétrica enquanto a tensão aplicada aos seus terminais for inferior a aproximadamente 0.3V-0.6V, a partir dessa tensão mínima começa a condução elétrica.
 
-Calculo poralizador do diodo zener
+### Calculo poralizador do diodo zener
 
-![calculo_poralizardiodo](https://i.imgur.com/xwiB5m4.jpg
+![calculo_poralizardiodo](https://i.imgur.com/xwiB5m4.jpg)
 
-Feito no Simulador
+### Feito no Simulador
 
 ![bloco](https://i.imgur.com/o7kiA5n.jpg)
+
+# Bloco para proteção do circuito
+
+Esse bloco é um dos mais importantes para não deixar com que a fonte sofra algum tipo de dano por curtos circuitos causados, um dos problemas mais comuns seria a sobrecorrente que como um dos seus efeitos poderia sobrecarregar os componentes e até mesmo causar incêndios.
+
+
 
 
 
