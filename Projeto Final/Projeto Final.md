@@ -23,3 +23,5 @@ Transistores MOS IRF540 e 2N7002
 ...
 
 # Introdução:
+
+O objetivo desse projeto é a criação de uma fonte linear, construída em etapas diferentes, onde cada bloco da fonte teria uma função específica, para que no final a fonte forneça em sua tensão de saída 15V e 1A de corrente.
