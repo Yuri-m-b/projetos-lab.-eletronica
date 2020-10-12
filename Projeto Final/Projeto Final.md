@@ -43,11 +43,15 @@ Enquanto o transformador trabalhar em modificar os níveis de tensão e corrente
 
 ### Transformador e Retificador
 
-![transformador e retificador](https://i.imgur.com/5mcMWwM.jpg) (Transformador e Retificador)
+![transformador e retificador](https://i.imgur.com/5mcMWwM.jpg)
 
-![onda transformador](https://i.imgur.com/GyT2Gab.jpg) (Tensão de entrada)
+### Tensão no transformador
 
-![onda retificador](https://i.imgur.com/T0rfyJl.jpg) (Tensão no retificador)
+![onda transformador](https://i.imgur.com/GyT2Gab.jpg)
+
+### Tensão no retificador
+
+![onda retificador](https://i.imgur.com/T0rfyJl.jpg)
 
 
 
