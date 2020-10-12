@@ -4,7 +4,7 @@
 
 # Objetivo:
 
-### Integração dos blocos de uma fonte linear
+
 
 # Componentes usados:
 
