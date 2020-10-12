@@ -83,7 +83,7 @@ Ao poralizar o Diodo Zener, esse diodo irá funcionar como qualquer outro diodo,
 
 # Bloco para proteção do circuito:
 
-Esse bloco é um dos mais importantes para não deixar com que a fonte sofra algum tipo de dano por curtos circuitos causados, um dos problemas mais comuns seria a sobrecorrente que como um dos seus efeitos poderia sobrecarregar os componentes e até mesmo causar incêndios. Para os cálculos um resistor shunt de 100m ohms foi escolhido, então foi calculado o ganho do subtrator, após isso foram escolhidos os valores dos resistores com base no ganho do subtrator.
+Esse bloco é um dos mais importantes para não deixar com que a fonte sofra algum tipo de dano por curtos circuitos, um dos problemas mais comuns seria a sobrecorrente que como um dos seus efeitos poderia sobrecarregar os componentes e até mesmo causar incêndios. Para os cálculos um resistor shunt de 100m ohms foi escolhido, então foi calculado o ganho do subtrator, após isso foram escolhidos os valores dos resistores com base no ganho do subtrator.
 
 ### Calculos
 
@@ -93,7 +93,7 @@ Esse bloco é um dos mais importantes para não deixar com que a fonte sofra alg
 
 ![circuito subtrator](https://i.imgur.com/ehHgEsI.jpg)
 
-Os valores para os resistores R11, R12 e R6 foram escolhidos para fazer com que os transistores MOSFET funcionem corretamente quano a tensão chegar em 1.6V
+Os valores para os resistores R11, R12 e R6 foram escolhidos para fazer com que os transistores MOSFET funcionem corretamente quando a tensão chegar em 1.6V
 
 # Fonte montada completamente:
 
