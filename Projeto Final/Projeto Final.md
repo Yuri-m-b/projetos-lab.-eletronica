@@ -53,7 +53,7 @@ Enquanto o transformador trabalhar em modificar os níveis de tensão e corrente
 
 ![onda retificador](https://i.imgur.com/T0rfyJl.jpg)
 
-# Bloco para alimentação do AmpOp
+# Bloco para alimentação do AmpOp:
 
 O intuito desse bloco é fazer com que o AmpOp receba aproximadamente 33V na sua entrada Vcc de forma contínua, reduzindo ao máximo qualquer tensão de ripple que apareça no processo. Foi usado o diodo zener 1N4751A por ser adequar com a tensão de 33v que está sendo filtrada pelos capacitores C2 e C3.
 
@@ -81,9 +81,24 @@ Ao poralizar o Diodo Zener, esse diodo irá funcionar como qualquer outro diodo,
 
 ![bloco](https://i.imgur.com/o7kiA5n.jpg)
 
-# Bloco para proteção do circuito
+# Bloco para proteção do circuito:
 
-Esse bloco é um dos mais importantes para não deixar com que a fonte sofra algum tipo de dano por curtos circuitos causados, um dos problemas mais comuns seria a sobrecorrente que como um dos seus efeitos poderia sobrecarregar os componentes e até mesmo causar incêndios.
+Esse bloco é um dos mais importantes para não deixar com que a fonte sofra algum tipo de dano por curtos circuitos causados, um dos problemas mais comuns seria a sobrecorrente que como um dos seus efeitos poderia sobrecarregar os componentes e até mesmo causar incêndios. Para os cálculos um resistor shunt de 100m ohms foi escolhido, então foi calculado o ganho do subtrator, após isso foram escolhidos os valores dos resistores com base no ganho do subtrator.
+
+### Calculos
+
+![calculo subtrator](https://i.imgur.com/eXUqEeZ.jpg)
+
+### Feito no Simulador
+
+![circuito subtrator](https://i.imgur.com/ehHgEsI.jpg)
+
+Os valores para os resistores R11, R12 e R6 foram escolhidos para fazer com que os transistores MOSFET funcionem corretamente quano a tensão chegar em 1.6V
+
+# Fonte montada completamente:
+
+
+
 
 
 
