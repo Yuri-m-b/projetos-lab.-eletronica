@@ -101,6 +101,22 @@ Os valores para os resistores R11, R12 e R6 foram escolhidos para fazer com que 
 
 # Fonte montada completamente:
 
+Após juntar todos os blocos anteriormente, o objetivo da fonte era trazer na tensão de saída 15V e 1A de corrente elétrica.
+
+### Circuito completo
+
+![circuito completo](https://i.imgur.com/B2Xjax0.jpg)
+
+Foram alcançados valores muitos proximos aos desejados, sendo Vout 14.8V e IR13 0,9A e com ripple muito baixo nos sinais da saída
+
+![sinalvout](https://i.imgur.com/BD4eTvt.jpg)
+
+![valoresvout](https://i.imgur.com/x1OBJUB.jpg)
+
+# Conclusão
+
+Embora os valores na saída ficaram muitos proxímos aos valores desejados para a fonte, poderia ainda ser feitos melhorias nos valores dos resistores e a escolha de outros modelos para os transistores que fizessem com que pelo menos a corrente de saída chegasse ainda mais proximo ao valor 1A.
+
 
 
 
